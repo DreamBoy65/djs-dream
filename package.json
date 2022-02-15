@@ -1,6 +1,6 @@
 {
   "name": "djs-dream",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A Multi purpose package",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,15 @@
   "author": "dream-prince",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^5.0.0",
+    "chalk": "^4.1.0",
     "discord.js": "^13.6.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DreamBoy65/djs-dream.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DreamBoy65/djs-dream/issues"
+  },
+  "homepage": "https://github.com/DreamBoy65/djs-dream#readme"
 }

@@ -1,1 +1,1 @@
-module.exports = require("./src/giveaways")
+module.exports.GiveawayManager = require("./src/giveaways");
